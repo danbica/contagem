@@ -3,7 +3,7 @@ for numero in (1..10)
 end
 
 numero = 0
-while numero <= 5
+while numero <= 10
     puts "Numero: #{numero}"
     numero += 1
 end

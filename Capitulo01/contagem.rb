@@ -11,7 +11,7 @@ if idade > 18
     puts nome
 end 
 
-for numero in(1..100)
+for numero in(1..10)
     puts "Numero: #{numero}"
 end    
 
